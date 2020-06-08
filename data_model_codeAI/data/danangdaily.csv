@@ -1,0 +1,27 @@
+LAT,,,,,16.0678,16.0678,16.0678,16.0678,16.0678,16.0678,16.0678,16.0678,16.0678,16.0678,16.0678
+LON,,,,,108.221,108.221,108.221,108.221,108.221,108.221,108.221,108.221,108.221,108.221,108.221
+ASL,,,,,11,11,11,11,11,11,11,11,11,11,11
+CITY,,,,,Da Nang,Da Nang,Da Nang,Da Nang,Da Nang,Da Nang,Da Nang,Da Nang,Da Nang,Da Nang,Da Nang
+DOMAIN,,,,,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL,NEMSGLOBAL
+LEVEL,,,,,2 m above gnd,2 m above gnd,MSL,sfc,sfc,2 m above gnd,2 m above gnd,2 m above gnd,2 m above gnd,MSL,MSL
+NAME,,,,,Temperature,Relative Humidity,Mean Sea Level Pressure,Total Precipitation (high resolution),Total Precipitation (low resolution),Temperature,Temperature,Relative Humidity,Relative Humidity,Mean Sea Level Pressure,Mean Sea Level Pressure
+UNIT,,,,,°C,%,hPa,mm,mm,°C,°C,%,%,hPa,hPa
+AGGREGATION,,,,,daily mean,daily mean,daily mean,daily sum,daily sum,daily max,daily min,daily max,daily min,daily max,daily min
+UTC_OFFSET,,,,,7,7,7,7,7,7,7,7,7,7,7
+,,,,,,,,,,,,,,,
+Year,Month,Day,Hour,Minute,Temperature,Relative Humidity,Mean Sea Level Pressure,Total Precipitation,Total Precipitation (low resolution) daily sum [sfc],Temperature daily max [2 m above gnd],Temperature daily min [2 m above gnd],Relative Humidity daily max [2 m above gnd],Relative Humidity daily min [2 m above gnd],Mean Sea Level Pressure daily max [MSL],Mean Sea Level Pressure daily min [MSL]
+2020,1,23,0,0,22.26,88.5,1014.52,0,0,26.58,19.82,96,72,1016.9,1012
+2020,1,24,0,0,22.52,88.75,1014.45,0,0,26.47,20.29,97,69,1016.8,1012
+2020,1,25,0,0,22.8,86.75,1012.98,0,0,26.85,19.68,96,66,1015.9,1010.2
+2020,1,26,0,0,21.49,93.25,1013.58,0.6,0.6,22.51,18.88,97,88,1015.5,1011.3
+2020,1,27,0,0,19.47,91.88,1013.83,2.4,2.4,21.21,17.93,96,85,1015.5,1011.5
+2020,1,28,0,0,19.85,95.5,1014.69,7.3,7.3,20.86,19.07,97,93,1016.6,1012.7
+2020,1,29,0,0,20.06,96.38,1017.34,16.7,16.7,20.54,19.23,97,95,1019,1015
+2020,1,30,0,0,18.38,92.83,1019.07,2.8,2.8,19.11,17.72,97,87,1021.7,1017
+2020,1,31,0,0,18.56,90.67,1018.91,1.2,1.2,20.13,17.37,96,81,1020.9,1017.3
+2020,2,1,0,0,19.95,88.79,1018.12,0,0,23.19,18.21,96,76,1020.5,1016.1
+2020,2,2,0,0,20.21,85.71,1018.5,0,0,24.5,16.66,100,69,1020.7,1016.4
+2020,2,3,0,0,20.97,88.96,1017.18,0,0,25.68,17.73,98,72,1019.2,1014.6
+2020,2,4,0,0,21.14,90.54,1016.55,0,0,24.8,18.69,100,77,1018.5,1014.8
+2020,2,5,0,0,21.13,86.88,1016.74,0,0,25.89,18.24,99,66,1019.5,1014.5
+2020,2,6,0,0,21.04,83.96,1016.15,0,0,26.25,16.93,100,62,1018.4,1013.3
