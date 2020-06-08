@@ -1,0 +1,6 @@
+[submodule "NodeSV"]
+	path = NodeSV
+	url = https://github.com/namhihi237/DOAN-VDK.git
+[submodule "FlaskSV"]
+	path = FlaskSV
+	url = https://github.com/namhihi237/flask-api.git
